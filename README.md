@@ -22,3 +22,6 @@ Nice, but what does that mean? An example:
 
 ## Oracle database Documentation
 You can find the online documentation of the Oracle Database under [docs.oracle.com/en/database/](http://docs.oracle.com/en/database/)
+
+## Datatables.net
+You can find the online documentation of the datatables.net under [datatables.net/examples/data_sources/server_side](https://datatables.net/examples/data_sources/server_side)
