@@ -1,4 +1,0 @@
-Hello Rajan
-nepali
-apache_get_version
-new changes
