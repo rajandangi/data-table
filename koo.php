@@ -1,4 +1,5 @@
 
+<?php
 
 /**
  * Automatic Posting a Koo
